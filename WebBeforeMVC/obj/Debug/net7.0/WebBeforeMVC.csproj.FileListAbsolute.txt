@@ -1,0 +1,96 @@
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.exe
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.deps.json
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.runtimeconfig.json
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.dll
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.pdb
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.AssemblyReference.cache
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfoInputs.cache
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfo.cs
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.CoreCompileInputs.cache
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.dll
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\refint\WebBeforeMVC.dll
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.pdb
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.genruntimeconfig.cache
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\ref\WebBeforeMVC.dll
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.WebBeforeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.WebBeforeMVC.props
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebBeforeMVC.props
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebBeforeMVC.props
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.pack.json
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.build.json
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.development.json
+E:\LecturesDemo\MVC\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\scopedcss\bundle\WebBeforeMVC.styles.css
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.exe
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.deps.json
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.runtimeconfig.json
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.dll
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.pdb
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.AssemblyReference.cache
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfoInputs.cache
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfo.cs
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.CoreCompileInputs.cache
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.MvcApplicationPartsAssemblyInfo.cache
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.WebBeforeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.WebBeforeMVC.props
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebBeforeMVC.props
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebBeforeMVC.props
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.pack.json
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.build.json
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.development.json
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\scopedcss\bundle\WebBeforeMVC.styles.css
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.dll
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\refint\WebBeforeMVC.dll
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.pdb
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.genruntimeconfig.cache
+H:\ITI dotnet track 4months\ASP.NET\mvc\Day1\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\ref\WebBeforeMVC.dll
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.exe
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.deps.json
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.runtimeconfig.json
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.dll
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.pdb
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.AssemblyReference.cache
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfoInputs.cache
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfo.cs
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.CoreCompileInputs.cache
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.WebBeforeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.WebBeforeMVC.props
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebBeforeMVC.props
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebBeforeMVC.props
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\scopedcss\bundle\WebBeforeMVC.styles.css
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.dll
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\refint\WebBeforeMVC.dll
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.pdb
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.genruntimeconfig.cache
+C:\Users\Elmasry\Downloads\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\ref\WebBeforeMVC.dll
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.exe
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.deps.json
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.runtimeconfig.json
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.dll
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\bin\Debug\net7.0\WebBeforeMVC.pdb
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.AssemblyReference.cache
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfoInputs.cache
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.AssemblyInfo.cs
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.csproj.CoreCompileInputs.cache
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.WebBeforeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.WebBeforeMVC.props
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebBeforeMVC.props
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebBeforeMVC.props
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\scopedcss\bundle\WebBeforeMVC.styles.css
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.dll
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\refint\WebBeforeMVC.dll
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.pdb
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\WebBeforeMVC.genruntimeconfig.cache
+D:\Courses\ASP.NET\MVC\WebBeforeMVC\WebBeforeMVC\WebBeforeMVC\obj\Debug\net7.0\ref\WebBeforeMVC.dll
